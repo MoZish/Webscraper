@@ -1,0 +1,5 @@
+C:\Users\moham\source\repos\Webscraper\SeleniumTest\obj\Release\SeleniumTest.csproj.AssemblyReference.cache
+C:\Users\moham\source\repos\Webscraper\SeleniumTest\obj\Release\SeleniumTest.csproj.SuggestedBindingRedirects.cache
+C:\Users\moham\source\repos\Webscraper\SeleniumTest\obj\Release\SeleniumTest.csproj.CoreCompileInputs.cache
+C:\Users\moham\source\repos\Webscraper\SeleniumTest\obj\Release\SeleniumTest.exe
+C:\Users\moham\source\repos\Webscraper\SeleniumTest\obj\Release\SeleniumTest.pdb

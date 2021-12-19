@@ -1,0 +1,10 @@
+C:\Users\moham\source\repos\SeleniumTest\SeleniumTest\bin\Debug\SeleniumTest.exe.config
+C:\Users\moham\source\repos\SeleniumTest\SeleniumTest\bin\Debug\SeleniumTest.exe
+C:\Users\moham\source\repos\SeleniumTest\SeleniumTest\bin\Debug\SeleniumTest.pdb
+C:\Users\moham\source\repos\SeleniumTest\SeleniumTest\bin\Debug\WebDriver.dll
+C:\Users\moham\source\repos\SeleniumTest\SeleniumTest\obj\Debug\SeleniumTest.csproj.AssemblyReference.cache
+C:\Users\moham\source\repos\SeleniumTest\SeleniumTest\obj\Debug\SeleniumTest.csproj.SuggestedBindingRedirects.cache
+C:\Users\moham\source\repos\SeleniumTest\SeleniumTest\obj\Debug\SeleniumTest.csproj.CoreCompileInputs.cache
+C:\Users\moham\source\repos\SeleniumTest\SeleniumTest\obj\Debug\SeleniumTest.csproj.CopyComplete
+C:\Users\moham\source\repos\SeleniumTest\SeleniumTest\obj\Debug\SeleniumTest.exe
+C:\Users\moham\source\repos\SeleniumTest\SeleniumTest\obj\Debug\SeleniumTest.pdb
